@@ -16,6 +16,8 @@ section {
     background-image: url("kkk.jpg");
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
