@@ -42,6 +42,7 @@ a {
     color: #007bff;
     text-decoration: none;
     transition: color 0.3s ease;
+    text-decoration: underline;
 }
 
 a:hover {
