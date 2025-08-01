@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #0554ca;
+    background-color: #f0f2f5;
     color: #333;
     line-height: 1.6;
     margin: 0;
@@ -13,11 +13,9 @@ section {
     max-width: 800px;
     margin: 40px auto;
     padding: 20px;
-    background-image: url("kkk.jpg");
+    background-color: #fff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 h1 {
